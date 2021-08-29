@@ -14,7 +14,6 @@ namespace ConsoleApp1
             Console.WriteLine("Noch ein Test.");
             Console.WriteLine("Endlich fertig.");
 
-
             Console.WriteLine("Hello World! Wie geht es Dir?");
             Console.WriteLine("Test Test Test Test Test Test");
             Console.WriteLine("Zeile 3");
@@ -22,6 +21,8 @@ namespace ConsoleApp1
             Console.WriteLine("Zeile 5");
             Console.WriteLine("Noch ein Test.");
             Console.WriteLine("Endlich fertig.");
+
+            Console.WriteLine("E N D E !");
         }
     }
 }
